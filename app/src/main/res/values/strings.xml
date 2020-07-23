@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">State Bank</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_login_account">Login</string>
+    <string name="button_withdraw">Withdraw/Deposit</string>
+    <string name="text_fragment_amount" />
+    <string name="button_fragment_withdraw">Withdraw Amount</string>
+    <string name="button_fragment_deposit">Deposit Amount</string>
+    <string name="button_check_balance">Check Balance</string>
+    <string name="button_transaction_history">Transaction History</string>
+    <string name="button_logout">Logout</string>
+    <string name="button_create_account">Create Account</string>
+    <string name="text_name" />
+    <string name="text_balance" />
+    <string name="text_pin" />
+    <string name="button_submit">Submit</string>
+
+</resources>
